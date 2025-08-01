@@ -28,5 +28,5 @@ A simple and responsive To-Do List built with vanilla JavaScript. Add, remove, a
 git clone https://github.com/k-gajjar-365/To-do-list.git
 
 # Navigate into the project
-cd To-do list
+cd To-do-list  
 ```

@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.addEventListener("keydown", (e) => {
     if (e.key === "Enter") {
       addTaskBtn.click();
-    } else if (e.ctrlKey && e.key === "Backspace") {
+    } else if (e.ctrlKey && e.key === "Delete") {
       e.preventDefault();
       delAll.click();
     } else if (e.key === "Delete") {

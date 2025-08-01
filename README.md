@@ -14,6 +14,18 @@ A simple and responsive To-Do List built with vanilla JavaScript. Add, remove, a
 
 ## 🎯 Usage
 
+### Interacting with the App
+
+- **Add a task**: Type into the input field and press `Enter`, or click the **Add Task** button.
+- **Remove last task**: Press `Delete`. This deletes the last task from the list and updates `localStorage`.
+- **Clear all tasks**: Press `Ctrl + Delete`. This removes every task instantly.
+- **Focus input field**: Press any key other than the above combinations to quickly return focus to the input box.
+- Tasks persist automatically thanks to `localStorage`—refreshing the page won’t lose your list.
+
+### Notes
+- Works seamlessly on desktop and mobile (responsive layout included).
+- Task overflow handled with smooth scrolling for better usability on smaller screens. 
+
 ### Keyboard Shortcuts
 | Shortcut             | Action               |
 |---------------------|----------------------|

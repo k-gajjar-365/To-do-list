@@ -2,6 +2,8 @@
 
 A simple and responsive To-Do List built with vanilla JavaScript. Add, remove, and persist tasks across sessions using `localStorage`. Includes keyboard shortcuts for enhanced productivity.
 
+[![Live Site](https://img.shields.io/badge/Live%20Site-Online-brightgreen)](https://to-do-list-nine-ashy-38.vercel.app/)
+
 ## 🚀 Features
 
 - Add tasks via input field or `Enter` key

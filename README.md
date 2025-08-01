@@ -21,3 +21,12 @@ A simple and responsive To-Do List built with vanilla JavaScript. Add, remove, a
 | Any other key       | Focus input field    |
 
 
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/k-gajjar-365/To-do-list.git
+
+# Navigate into the project
+cd To-do list
+```

@@ -14,7 +14,7 @@ A simple and responsive To-Do List built with vanilla JavaScript. Add, remove, a
 
 ## 🎯 Usage
 
-### Interacting with the App
+#### Interacting with the App
 
 - **Add a task**: Type into the input field and press `Enter`, or click the **Add Task** button.
 - **Remove last task**: Press `Delete`. This deletes the last task from the list and updates `localStorage`.
